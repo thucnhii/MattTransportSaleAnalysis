@@ -16,3 +16,6 @@ This data set provides detailed information about orders, including order number
 
 # Visualizing
 [Tableau](https://public.tableau.com/app/profile/nhi.le8767/viz/MattTransportationSalesAnalysis/MattSalesAnalysis)
+![distribution](distribution.png)
+
+![revenue analysis](revenue analysis.png)
