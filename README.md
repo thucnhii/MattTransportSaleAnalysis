@@ -18,4 +18,6 @@ This data set provides detailed information about orders, including order number
 [Tableau](https://public.tableau.com/app/profile/nhi.le8767/viz/MattTransportationSalesAnalysis/MattSalesAnalysis)
 ![distribution](distribution.png)
 
+According to the dashboard, in the USA, a substantial portion of the deal sizes falls within the medium range, contributing to a total revenue of 6 million dollars. November stands out as the top-performing month, with November 2023 recording remarkable sales, totaling 318,405 dollars. </br>
+
 ![revenue analysis](https://github.com/thucnhii/MattTransportSaleAnalysis/blob/ec7f59924e426e5a1eb569ee7e98f81dde16a042/revenue%20analysis.png)
