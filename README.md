@@ -21,3 +21,5 @@ This data set provides detailed information about orders, including order number
 According to the dashboard, in the USA, a substantial portion of the deal sizes falls within the medium range, contributing to a total revenue of 6 million dollars. November stands out as the top-performing month, with November 2023 recording remarkable sales, totaling 318,405 dollars. </br>
 
 ![revenue analysis](https://github.com/thucnhii/MattTransportSaleAnalysis/blob/ec7f59924e426e5a1eb569ee7e98f81dde16a042/revenue%20analysis.png)
+
+As illustrated in the dashboard, Matt Company's revenue displayed a significant pattern of growth, reaching 4.7 million in 2004 after starting at 3.5 million in 2003, but then saw a decrease to 1.7 million in 2005. Notably, the most sought-after product lines were Classic Cars and Vintage Cars.
