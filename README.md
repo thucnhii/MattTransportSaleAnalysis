@@ -8,8 +8,11 @@ This data set provides detailed information about orders, including order number
 [Data Set](https://github.com/thucnhii/SQLProjectSaleAnalysis/blob/6152c6eabab6c54f7b1f2ed0f87e3930bf09fb12/sales_data_sample.csv) </br>
 
 # Analyzing
+[SQL Queries](https://github.com/thucnhii/SQLProjectSaleAnalysis/blob/34fb2d3d8f9037d42c8acc6baf6f0a28fff2a2bb/AnalysisSQL.sql) </br>
 - Sales by Product Line, Year, and Dealsize.
 - Identify best month for sales and the highest sale product in that month.
 - Segment customers and find the best customer
-- Find products are most often sold together
-[SQL Queries](https://github.com/thucnhii/SQLProjectSaleAnalysis/blob/34fb2d3d8f9037d42c8acc6baf6f0a28fff2a2bb/AnalysisSQL.sql)
+- Find products are most often sold together </br>
+
+# Visualizing
+[Tableau](https://public.tableau.com/app/profile/nhi.le8767/viz/MattTransportationSalesAnalysis/MattSalesAnalysis)
